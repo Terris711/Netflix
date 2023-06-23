@@ -1,0 +1,17 @@
+## Synopsis
+
+Assignment 1 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+
+README – readme file for Assignment 1
+program.py - program for adding filter, printing movies' names, Graphing data.
+netflix.csv - all the movies' data
+Report - Discuss about what I found after working with data
+User Documentation - Explain my code and Guide users
+## Dependencies
+matplotlib.pyplot
+numpy
+## Version information
+
+5 April 2022 - initial version of Assignment 1 programs
